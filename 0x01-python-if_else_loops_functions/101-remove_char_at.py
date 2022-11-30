@@ -1,4 +1,4 @@
-#1/usr.bin/python3
+#!/usr/bin/python3
 # Author - Victor Kiriinya
 
 def remove_char_at(str, b):
