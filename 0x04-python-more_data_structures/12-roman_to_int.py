@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 
 
 def roman_to_int(roman_string):
@@ -30,5 +30,3 @@ def roman_to_int(roman_string):
         else:
             num += roman_dict[roman_string[i]]
         return (num)
-
-
