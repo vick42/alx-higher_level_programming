@@ -1,3 +1,4 @@
+In this module we shall seek to learn the following:
 Learning how to import functions from another file
 Learning how to use imported functions
 Learning how to create a module
