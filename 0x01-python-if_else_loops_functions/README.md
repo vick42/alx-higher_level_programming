@@ -1,4 +1,4 @@
-This assignment will beabout the following:
+This assignment will be about the following:
 Why indentation is so Important in python
 How to use the if, if ... else statements.
 How to use comments.
