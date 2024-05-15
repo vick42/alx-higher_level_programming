@@ -1,4 +1,4 @@
-Practice on the following:
+This project will seek to answer the following:
 WHat are lists in python and how they are used
 What are the differences and similarities between strings and lists
 What are the most common methods of lists and how to use them
