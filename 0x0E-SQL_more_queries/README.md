@@ -1,6 +1,6 @@
 # SQL - More queries
 
-In this project, I continued to practicing SQL queries, working with
+In this project, I continued to work on SQL queries,
 permissoins, joins, and constraints.
 
 ## Usage :dolphin:
