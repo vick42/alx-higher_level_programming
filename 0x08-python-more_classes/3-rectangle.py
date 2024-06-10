@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-"""A class that defines a rectangle"""
+ass that defines a rectangle"""
 
 
 class Rectangle:
@@ -42,7 +41,7 @@ class Rectangle:
         if not isinstance(value, int):
             raise TypeError("height must be an integer")
         if value < 0:
-            raise ValueError("height must be >=0")
+            raise ValueError("height must be >= 0")
         self.__height = value
 
     def area(self):
@@ -52,8 +51,8 @@ class Rectangle:
     def perimeter(self):
         """Returns the perimeter of the rectangle"""
         if self.__width == 0 or self.__height == 0:
-		retutn (0)
-	return ((self.__width * 2) + (self.__height * 2))
+            return (0)
+        return ((self.__width * 2) + (self.__height * 2))
 
     def __str__(self) -> str:
         """presents a diagram of the rectangle defined for an object"""
