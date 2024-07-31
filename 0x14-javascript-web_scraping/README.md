@@ -1,1 +1,5 @@
-Solutions to tasks on Web scrapping.
+This project seeks to expand on the following:
+Why JavaScript programming is amazing
+How to manipulate JSON data
+How to use request and fetch API
+How to read and write a file using fs module
